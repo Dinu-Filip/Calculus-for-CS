@@ -4,11 +4,11 @@ Complete proofs to complement the first-year calculus course in the Computing (*
 
 I will aim to include proofs/discussions for the following
 - Limits and convergence of sequences
-- Elementary results on Dedekind-completeness
+- Completeness
 - Limits and convergence of continuous functions
 - Continuity
-- Differentiation
-- Elementary results on Riemann integration
+- Differentiation and differentiability
+- Riemann integration and integrability
 - Series and tests for convergence
 - Power series
 
